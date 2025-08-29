@@ -1,10 +1,11 @@
 {
   "version": 1,
   "updatedAt": "2025-08-29T12:00:00Z",
-  "kill": false,
+  "kill": true,
   "blockMessage": "Cette application est désactivée par l’administrateur.",
   "updateUrl": "https://example.com/apk/latest"
 }
+
 
 
 
