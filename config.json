@@ -1,4 +1,5 @@
 {
-  "kill": false,
+  "kill": true,
   "blockMessage": "Cette application est désactivée par l’administrateur."
 }
+
